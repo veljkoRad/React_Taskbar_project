@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "useEffect",
+      "day": "12.11.2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "New Task",
+      "day": "10.11.2022",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
